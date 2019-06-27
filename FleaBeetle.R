@@ -58,5 +58,5 @@ ggplot(data=ex1613, aes(x=Jnt1, y=Jnt2, fill=Species)) +
 
 # REFERENCES
 
-- Lubischew, A. A., On the Use of Discriminant Functions in Taxonomy, _Biometrics_, **18**: 455-477 (1962).
+- Lubischew, A. A., On the Use of Discriminant Functions in Taxonomy, Biometrics_, **18**: 455-477 (1962).
 
